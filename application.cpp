@@ -1,9 +1,7 @@
 // application.cpp <Starter Code>
 // Sharbel Homa
 //
-// University of Illinois at Chicago
-// CS 251: Spring 2021
-// Project #7 - Openstreet Maps
+// Project - Openstreet Maps
 //
 // References:
 // TinyXML: https://github.com/leethomason/tinyxml2
@@ -16,10 +14,6 @@
 //   https://wiki.openstreetmap.org/wiki/Relation
 //
 
-// questions:
-// 1. mimir output
-// 2. neighbors func
-// 3.
 #include <iostream>
 #include <iomanip>  /*setprecision*/
 #include <string>

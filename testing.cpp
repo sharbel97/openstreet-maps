@@ -1,12 +1,7 @@
-// testing.cpp <Starter Code>
-// <Your name>
-//
-// University of Illinois at Chicago
-// CS 251: Spring 2021
-// Project #7 - Openstreet Maps
-// This file is used for testing graph.h.  We encourage you to use Google'
-// test framework for this project, but it is not required (because we will
-// not be grading it).  
+// Sharbel Homa
+
+// Project - Openstreet Maps
+// This file is used for testing graph.h.
 //
 #include <iostream>
 #include <vector>

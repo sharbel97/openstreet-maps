@@ -1,9 +1,7 @@
 /*dist.cpp*/
 
 //
-// University of Illinois at Chicago
-// CS 251: Spring 2021
-// Project #7 - Openstreet Maps
+// Project - Openstreet Maps
 // 
 
 #include <iostream>

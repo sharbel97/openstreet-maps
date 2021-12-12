@@ -1,9 +1,7 @@
 /*dist.h*/
 
 //
-// University of Illinois at Chicago
-// CS 251: Spring 2021
-// Project #7 - Openstreen Maps
+// Project - Openstreen Maps
 // 
 
 #include <iostream>

@@ -1,12 +1,8 @@
-// graph.h <Starter Code>
 // Sharbel Homa
 //
-// Basic graph class using adjacency matrix representation.  Currently
-// limited to a graph with at most 100 vertices.
+// Basic graph class using adjacency list representation.
 //
-// University of Illinois at Chicago
-// CS 251: Spring 2021
-// Project #7 - Openstreet Maps
+// Project - Openstreet Maps
 //
 
 #pragma once
